@@ -39,8 +39,14 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 ![Screenshot from 2023-04-09 01-42-45](https://user-images.githubusercontent.com/112666126/230740831-ff783490-f778-4280-9b03-c29fcdf22952.png)
 
 
-The tool displays tweets based on the specified **search keyword or hashtag, date range, and the desired number of tweets** to be scraped. The number of tweets displayed is **restricted based on the count of tweets specified by the user**.
+The tool displays tweets based on the specified search keyword or hashtag, date range, and the desired number of tweets to be scraped. The number of tweets displayed is restricted based on the count of tweets specified by the user. **The newest tweets are displayed first.**
+
 
 **Pushing Data to mongoDB**
 ------------
 Click "push to mongodb" button.Once the data is pushed into Mongo database,**'Data inserted in mongodb'** would be shown on the app.
+![Screenshot from 2023-04-09 01-49-59](https://user-images.githubusercontent.com/112666126/230741249-0e58e235-9697-4ce8-903c-b0cd8b2b006b.png)
+
+Data pushed into MongoDB
+![Screenshot from 2023-04-09 01-57-31](https://user-images.githubusercontent.com/112666126/230741330-c0a48157-bdbe-4f11-bd30-9f2b795e5e57.png)
+

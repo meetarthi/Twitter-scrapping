@@ -18,11 +18,15 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 **User-Interface**
 ------------
 1. The user is supposed to enter a word or hastag.
-2. 
-3. Choose a data range : Choose a start date (**From**) and end date(**To**). **If the default 'From' and 'To' date is not changed, all the tweets with the keyword or hashtag will be displayed.**
-5. Enter the number of tweets to be scrapped.
-6. After entering all inputs, click the Submit button.The tweets will be displayed.
-7. Then based on the user choice, they can **push data to mongoDB** or **download data as CSV** or **download data as Json**.
+
+2. Choose a data range : Choose a start date (**From**) and end date(**To**). **If the default 'From' and 'To' date is not changed, all the tweets with the keyword or hashtag will be displayed.**
+
+3. Enter the number of tweets to be scrapped.
+
+4. After entering all inputs, click the Submit button.The tweets will be displayed.
+
+5. Then based on the user choice, they can **push data to mongoDB** or **download data as CSV** or **download data as Json**.
+
 
 **Output**
 ------------

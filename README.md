@@ -8,7 +8,7 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 
 **Developed using:**
 ------------
-1. **Language** - Python (Libraries used used snscrape,pandas,Pymongo)
+1. **Language** - Python (Libraries used are snscrape,pandas,Pymongo)
 
 2. **Database** - MongoDB
 
@@ -24,7 +24,7 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 
 1. The user is supposed to enter a word or hastag.
 
-2. Choose a data range : Choose a start date (**From**) and end date(**To**). **If the default 'From' and 'To' date is not changed, all the tweets with the keyword or hashtag will be displayed.**
+2. Choose a date range : Choose a start date (**From**) and end date(**To**). **If the default 'From' and 'To' date is not changed, all the tweets with the keyword or hashtag will be displayed.**
 
 3. Enter the number of tweets to be scrapped.
 

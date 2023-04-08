@@ -47,6 +47,6 @@ The tool displays tweets based on the specified search keyword or hashtag, date 
 Click "push to mongodb" button.Once the data is pushed into Mongo database,**'Data inserted in mongodb'** would be shown on the app.
 ![Screenshot from 2023-04-09 01-49-59](https://user-images.githubusercontent.com/112666126/230741249-0e58e235-9697-4ce8-903c-b0cd8b2b006b.png)
 
-Data pushed into MongoDB
+**Data pushed into MongoDB displayed using MongoDB atlas**
 ![Screenshot from 2023-04-09 01-57-31](https://user-images.githubusercontent.com/112666126/230741330-c0a48157-bdbe-4f11-bd30-9f2b795e5e57.png)
 

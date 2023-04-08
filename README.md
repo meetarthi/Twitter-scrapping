@@ -19,7 +19,7 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 **User-Interface**
 ------------
 
-<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="600" height="700">
+<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="600" height="1200">
 
 
 

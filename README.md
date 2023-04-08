@@ -35,5 +35,9 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 
 **Output**
 ------------
+
+
+
+
 The tool displays tweets based on the specified search keyword or hashtag, date range, and the desired number of tweets to be scraped. The number of tweets displayed is restricted based on the count of tweets specified by the user.
 

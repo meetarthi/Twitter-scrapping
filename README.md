@@ -54,4 +54,4 @@ Click "push to mongodb" button.Once the data is pushed into Mongo database,**'Da
 
 **Data downloaded in CSV Format, displayed using google sheets**
 ------------
-![Screenshot from 2023-04-09 02-14-36](https://user-images.githubusercontent.com/112666126/230741862-253fe3f5-7634-4629-a3f3-37a3561bae13.png)
+![Screenshot from 2023-04-09 02-14-36](https://user-images.githubusercontent.com/112666126/230741862-253fe3f5-7634-4629-a3f3-37a3561bae13.png) 

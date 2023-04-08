@@ -1,6 +1,4 @@
 # Twitter-scrapping-tool #
 
-##Link to access the app
-https://arthimurali-twitter-scrapping-tool.hf.space/
-
+[Link to access the app](https://arthimurali-twitter-scrapping-tool.hf.space/)
 

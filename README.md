@@ -11,14 +11,15 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 1. **Language** - Python (Libraries used used snscrape,pandas,Pymongo)
 
 2. **Database** - MongoDB
- 
+ <img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="400" height="300">
+
 3. **Front-end/GUI** - Streamlit
 
 
 **User-Interface**
 ------------
 
-<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="600" height="700">
 
 
 

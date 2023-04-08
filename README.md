@@ -17,6 +17,11 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 
 **User-Interface**
 ------------
+
+<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="400" height="300">
+
+
+
 1. The user is supposed to enter a word or hastag.
 
 2. Choose a data range : Choose a start date (**From**) and end date(**To**). **If the default 'From' and 'To' date is not changed, all the tweets with the keyword or hashtag will be displayed.**

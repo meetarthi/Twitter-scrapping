@@ -18,7 +18,7 @@ Tweet's scrapping app is a application that enables users to extract tweets from
 **User-Interface**
 ------------
 
-<img src="https://user-images.githubusercontent.com/112666126/230740087-7f34844b-629a-44f0-8c09-c7d59c4afdf4.png" width="600" height="700">
+<img src="https://user-images.githubusercontent.com/112666126/230741692-3efad137-8173-4f21-b328-6b2a3cc2c55b.png" width="600" height="700">
 
 
 
@@ -49,6 +49,8 @@ Click "push to mongodb" button.Once the data is pushed into Mongo database,**'Da
 
 **Data pushed into MongoDB , displayed using MongoDB atlas**
 ![Screenshot from 2023-04-09 01-57-31](https://user-images.githubusercontent.com/112666126/230741330-c0a48157-bdbe-4f11-bd30-9f2b795e5e57.png)
-------------
+
+
+
 **Data downloaded in CSV Format**
 ------------

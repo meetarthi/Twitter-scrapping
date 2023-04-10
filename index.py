@@ -4,7 +4,7 @@ import pandas as pd
 import pymongo
 
 def push_to_mongo(pd_tweets):
-    client = pymongo.MongoClient("mongodb+srv://meetarthi:Farmer246@cluster0.gkstsrk.mongodb.net/?retryWrites=true&w=majority")
+    client = pymongo.MongoClient("mongodb+srv://usernsme:password@cluster0.gkstsrk.mongodb.net/?retryWrites=true&w=majority")
     dv = client.e12
     collection=dv.tweets
     push_status = collection.insert_many(pd_tweets.to_dict('records'))

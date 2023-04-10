@@ -1,6 +1,7 @@
 # Tweet's scrapping app #
 
 [Link to access the app](https://arthimurali-twitter-scrapping-tool.hf.space/)
+(The app doesn't have a scroll down , to get the visibility of buttons below the **submit** Button, minimize the size of the page **(ctrl + - )** )
 
 **Overview**
 ------------
